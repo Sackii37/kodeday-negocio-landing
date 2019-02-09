@@ -1,12 +1,12 @@
 const config = {
     'greeting': {
         'slogan': 'Las mejores guitarras',
-        'image': '/img/carro.jpg',
+        'image': './img/carro.jpg',
         'text_button': 'Comprar!'
     },
     'description': {
         'title': '¿Quienes somos?',
-        'image': '/img/carro.jpg',
+        'image': './img/carro.jpg',
         'text_description': 'Somos los que venden las guitarras mas chidas.'
     },
     'catalog': {
@@ -15,22 +15,22 @@ const config = {
             {
                 'title': 'Telecaster',
                 'subtitle': 'The best Telecaster',
-                'image': '/img/carro.jpg'
+                'image': './img/carro.jpg'
             },
             {
                 'title': 'Gibson',
                 'subtitle': 'The best Gibson',
-                'image': '/img/carro.jpg'
+                'image': './img/carro.jpg'
             },
             {
                 'title': 'Gibson',
                 'subtitle': 'The best Gibson',
-                'image': '/img/carro.jpg'
+                'image': './img/carro.jpg'
             },
             {
                 'title': 'Gibson',
                 'subtitle': 'The best Gibson',
-                'image': '/img/carro.jpg'
+                'image': './img/carro.jpg'
             }
 
         ]
